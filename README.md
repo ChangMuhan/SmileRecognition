@@ -1,4 +1,8 @@
+# **Smile Recognition**
+
 ![](./examples/cover.png "Smile Recognition")
+Smile Recognition can detect and score the degree of smile for images and videos.
+
 ## Initialize
 
 ```
