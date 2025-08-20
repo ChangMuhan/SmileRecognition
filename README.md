@@ -60,4 +60,7 @@ python test_video.py --model "PATH/TO/YOUR/TRAINED/MODEL" --device "cpu" --input
 
 ## Call your camera and score your smile in real time
 
-Coming soon.
+```
+python test_realtime.py --model "PATH/TO/YOUR/TRAINED/MODEL"
+```
+You can also adjust other parameters such as tracking box color, real-time video mirroring, save path, etc. Please read the source code for details.
